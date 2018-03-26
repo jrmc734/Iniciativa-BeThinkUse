@@ -1,0 +1,27 @@
+=============================================================================
+Nesse arquivo devem ser colocadas ideias para possiveis projetos, os quais
+devem seguir as seguintes regras:
+
+-> O projeto deve ter um objetivo bem definido, de preferencia seguindo
+   a proposta da iniciativa: Ajudar a vida cotidiana de alguem com algum
+   tipo de limitacao.
+
+-> O projeto deve ser algo realizavel pelo membros da equipe tendo em vista
+   seus conhecimetos no momento da apresentacao.
+
+-> Deve ser feita uma pequena sintese sobre como sera o projeto, apresentando
+   o objetivo e os possiveis aprendizados dos membros da equipe.Se necessarios
+   mais detalhes, criar outro arquivo na pasta Ideias.
+=============================================================================
+
+
+1. Bastão de cego inteligente.
+    Um bastão acoplado a um arduino capaz de detectar a distância até um
+    obstáculo e informar ao usuário (som ou vibração).
+
+    - utilização de sensores do arduino
+    - construção de circuito com alimetação independente
+    - design simples e minimalista que facilite o uso e o conforto
+    - construção resistente que minimize a necessidade de reparos
+
+2.
