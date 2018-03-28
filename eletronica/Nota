@@ -3,3 +3,10 @@ Cada membro da equipe possui uma pasta propria, a qual pode ser vista por
 todos e onde podem ser colocados, se necessarios, quaisquer arquivos
 relevantes que o proprietario desejar.
 =============================================================================
+    A eletronica do projeto BeThinkUse visa a criar circuitos em conjunto com
+    a placa microcontroladora arduino, a partir da utilização de sensores, como
+    o de eletromiografia e o eletroencefalograma. Esta pasta também contará com 
+    aquivos txt sobre como fucionam esses componetes e arquivos .c mostrando os
+    códigos fontes de todos nossos projetos. O grande objetivo dessa iniciativa 
+    é ser open-sourse para que outras mentes curiosas possam auxiliar na 
+    eficiência em prol da deficiência.
